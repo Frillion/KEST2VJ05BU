@@ -13,3 +13,5 @@ ROM stendur fyrir ReadOnlyMemory.
 ROM er lítill kubbur sem er á móðurborðinu.
 ROM hefur með sér leiðbeiningar sem geta verið sóttar beint af örgjafanum eins og leiðbeiningar til að kveikja á sér og hlaða up stýrikerfið.
 ROM heldur öllum gögnum þegar slökt er á tölvuni á meðan RAM gerir það ekki.
+
+### 3.Hvað er fyrirbyggjandi viðhald?
